@@ -42,13 +42,11 @@
   
   
   .nav-link {
-    /*width: 216px;*/
-    width: 216px;
+    width: 400px;
     list-style: none;
     background-color: #97989A;
     text-align: center;
     margin-top: 8px;
-    color:darkblue;
   }
   .nav-link a{
     text-decoration: none;
@@ -62,8 +60,6 @@
   section {
     width:32.8%;
     height:35%;
-    /*text-align: center;*/
-    /*vertical-align: middle;*/
     background-color: #858688;
   }
   section img{
@@ -103,12 +99,11 @@
 	}
 	.nav-link {
        /*width: 216px;*/
-       width: 186px;
+       width: 400px;
        list-style: none;
        background-color: #97989A;
        text-align: center;
        margin-top: 8px;
-       color:darkblue;
   }
 } 
 
@@ -120,12 +115,11 @@
 	}
 	.nav-link {
        /*width: 216px;*/
-       width: 186px;
+       width: 400px;
        list-style: none;
        background-color: #97989A;
        text-align: center;
        margin-top: 8px;
-       color:darkblue;
   }
 } 
 
@@ -136,14 +130,13 @@
 		height:990px !important;
 	}
 	.nav-link {
-       /*width: 216px;*/
+       /*width: 186px;*/
        width: 186px;
        list-style: none;
        background-color: #97989A;
        text-align: center;
        margin-top: 8px;
-       color:darkblue;
-  }
+ }
 }
 
 @media (min-width: 1200px) {
@@ -152,11 +145,11 @@
 	 	height: 1000px !important;
  	}
 	.nav-link {
-       width: 216px;
+     /*width: 216px;*/
+       width: 215.5px;
        list-style: none;
        background-color: #97989A;
        text-align: center;
        margin-top: 8px;
-       color:darkblue;
   }
 }
